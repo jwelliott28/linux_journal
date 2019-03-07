@@ -1,0 +1,12 @@
+3/7/2019
+
+- Spent week adding programs and fixing others
+  - cli-visualizer did not work initially. Spent a lot of time adjusting config files before realizing I forgot to install a
+    dependency. Installed dependency and then rebuilt/installed cli-vis. Works OK now.
+  - had to add bindsym commands to make volume buttons work in ~/.config/i3/config
+
+- Created a new repo on github to write a daily linux journal detailing issues encountered and things learned
+
+- To do list
+  - Fix xbacklight. Currently does not detect a source. Will need to assign a source so that i3 key bindings work.
+  - Rename and organize music so it isn't out of order in cmus
