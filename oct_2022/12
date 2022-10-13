@@ -1,0 +1,3 @@
+- created .bashrc alias called resume_connect that issues the ssh command to connect to AWS resume web server instance
+- issued git pull today to sync resume_server git repo for resume with updated version on github
+- chose BitWarden for password manager. Added to Firefox and phone.

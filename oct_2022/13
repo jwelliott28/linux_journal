@@ -1,0 +1,5 @@
+- went through entire AWS tutorial for using CloudFront to host static websites in S3
+- instructions were fairly simple, but could send user in multiple locations with various tutorials if not paying attention
+- whole process took roughly ~4 hours, but have enough infrastructure set up to actually host a website
+- need to finally settle on an HTML/CSS template and upload to subdomain bucket (www.jwelliott.net)
+- learning more about ansible for work. Attempting to find a way to update all Linux servers with a playbook to automate monthly patching. Playbook, inventories and ssh keys are set up, figuring out a way around SSH timeout during playbook run.
