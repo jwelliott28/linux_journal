@@ -1,0 +1,4 @@
+- worked on Fantasy Data Pros Python class
+- currently in section about data munging
+- have pulled in a CSV sheet with a URL created a DataFrame object with the CSV, learned to select colums and rows to view, and how to add a new column to a DataFrame object using other columns already in the DataFrame
+- next steps are to finish the data munging section
