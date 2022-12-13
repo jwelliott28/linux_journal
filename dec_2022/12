@@ -1,0 +1,3 @@
+- continued learning Python for Fantasy Football data analysis
+- focused on learning how to manipulate DataFrames to get the data we want
+- created a new DataFrame from the original by filtering for RB in the 'Pos' column and then selecting the columns we wanted to appear for analysis
